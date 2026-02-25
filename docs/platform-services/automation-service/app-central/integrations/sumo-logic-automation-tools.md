@@ -7,8 +7,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <img src={useBaseUrl('/img/platform-services/automation-service/app-central/logos/sumo-logic-notifications.png')} alt="sumo-logic-notifications" width="100"/>
 
-***Version: 1.4  
-Updated: February 25, 2026***
+***Version: 1.5  
+Updated: February 26, 2026***
 
 Sumo Logic Automation Tools simplifies Cloud SOAR playbooks with data processing and automation.
 
@@ -506,3 +506,4 @@ No authentication configuration is needed. Sumo Logic Automation Tools executes 
 * June 20, 2025 - Removed `%` sign from the output.
 * Nov 14, 2025 (v1.3) - Added "Convert Time" action to convert timestamps to the selected timezone.
 * Feb 25, 2026 (v1.4) - Added "Count Occurrence Of Value" action to count the occurrence of a specified value in texts.
+* Feb 26, 2026 (v1.5) - Added a new output path to enable easier data consumption in playbook workflows.
